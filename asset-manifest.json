@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/seguridad/static/css/main.626eba88.css",
+    "main.js": "/seguridad/static/js/main.802d80ef.js",
+    "index.html": "/seguridad/index.html",
+    "main.626eba88.css.map": "/seguridad/static/css/main.626eba88.css.map",
+    "main.802d80ef.js.map": "/seguridad/static/js/main.802d80ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.626eba88.css",
+    "static/js/main.802d80ef.js"
+  ]
+}
